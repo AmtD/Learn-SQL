@@ -5,17 +5,17 @@ The SQL tutorial is prepared for students, engineers, and professionals. Beginni
 
 The following lessons are covered in the SQL Tutorial,
 
-✔️ SQL – Overview
+**✔️ SQL – Overview**
 
 SQL Introduction and Features https://youtu.be/8AY4WmTwxp0
 
 SQL vs NoSQL https://youtu.be/qhe2Q5rn8Js
 
-✔️ SQL – Install & Setup
+**✔️ SQL – Install & Setup**
 
 Install SQL on Windows
 
-✔️ SQL – Create & Insert
+**✔️ SQL – Create & Insert**
 
 Create a Database https://youtu.be/GqQN1_Aa1F8
 
@@ -24,7 +24,7 @@ Create a Table https://youtu.be/ZBkNHg3v5zs
 Insert Records https://youtu.be/R4n0W7cS0_c
 
 
-✔️ SQL – Select Records
+**✔️ SQL – Select Records**
 
 SELECT statement https://youtu.be/_rUYAQWn6q8
 
@@ -32,11 +32,11 @@ SELECT DISTINCT statement https://youtu.be/7IINNnv-TPc
 
 WHERE Clause https://youtu.be/SJF3uoIfsKY
 
-✔️ SQL – Order Records
+**✔️ SQL – Order Records**
 
 ORDER BY Clause https://youtu.be/LSv926kk1fo
 
-✔️ SQL – Operators
+**✔️ SQL – Operators**
 
 AND Operator https://youtu.be/k_uFo1dqRiA
 
@@ -51,7 +51,7 @@ BETWEEN Operator https://youtu.be/6_xDYOcT3Tk
 LIKE Operator https://youtu.be/4Ut4Oxxz8xI
 
 
-✔️ SQL – Built-in Functions
+**✔️ SQL – Built-in Functions**
 
 SQL MAX() Function https://youtu.be/lHUVz-KCpCw
 
@@ -64,7 +64,7 @@ SQL AVG() Function https://youtu.be/6j4Cv6_PygI
 SQL COUNT() Function https://youtu.be/XxwZB6mdgLU
 
 
-✔️ SQL – Constraints
+**✔️ SQL – Constraints**
 
 SQL Primary Key Constraint https://youtu.be/d7lVJiTUJtI
 
@@ -77,7 +77,7 @@ SQL Check Constraint https://youtu.be/muBfV5FQOG8
 SQL NOT NULL Constraint https://youtu.be/srFrjNyIJ9Y
 
 
-✔️ SQL – Alter & Update
+**✔️ SQL – Alter & Update**
 
 SQL ALTER TABLE Statement https://youtu.be/EOOxXmioZSA
 
@@ -86,7 +86,7 @@ SQL UPDATE Statement https://youtu.be/MjI-1ZT68gM
 SQL Aliases https://youtu.be/h2tuA68Pa3k
 
 
-✔️ SQL – Advanced
+**✔️ SQL – Advanced**
 
 SQL Stored Procedures https://youtu.be/MSbzErdcb6g
 
@@ -103,7 +103,7 @@ SQL Views https://youtu.be/fsJDbjHv8uY
 Drop a Table https://youtu.be/K7fFETZJucM
 
 
-✔️ SQL – Resources
+**✔️ SQL – Resources**
 
 SQL Examples https://studyopedia.com/sql/sql-examples/
 
